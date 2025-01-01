@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Kader
 - 👀 I’m very interested in creating new things.
-- 🌱 I’m currently learning  HTML, CSS JavaScript, Bootstrap, Tailwind CSS,  Web API C# .Net, ASP .Net Core.
+- 🌱 I currently know HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Web API with C# .NET, and ASP.NET Core.
 - 📫 Gmail: abdulkader.im.run@gmail.com
 
 <!---
